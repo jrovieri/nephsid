@@ -1,0 +1,1 @@
+{"description":"","name":"model","spacy_version":">=2.2.3","pipeline":["ner"],"factories":{"ner":"ner"},"version":"0.0.0","vectors":{"name":"spacy_pretrained_vectors","vectors":0,"keys":0,"width":0},"email":"","labels":{"ner":["CARDINAL","PRODUCT","QUANTITY"]},"license":"","url":"","lang":"pt","author":""}
